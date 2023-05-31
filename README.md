@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m currently working in graphic design at 25/7 Media Inc. Learning programming everyday. Interested in starting projects with collaborators. I love my cats.
+Hi! I’m currently working in graphic design at 25/7 Media Inc. Learning programming everyday. I love my cats.
 
 
 ## 🌐 Socials:
