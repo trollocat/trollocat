@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m currently working in graphic design at 25/7 Media Inc. Improving as a developer, aspiring to get a frontend job. I love my cats
+Hi! I’m a graphic designer at 25/7 Media Inc, improving and growing as a frontend developer. I love my cats
 
 
 ## 🌐 Socials:
