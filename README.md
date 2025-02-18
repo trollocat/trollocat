@@ -8,7 +8,7 @@
 
 ![Backend](https://img.shields.io/badge/Backend%3A-121212?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-%2357C5A7.svg?style=flat-square&logo=sequelize&logoColor=white)
 
-![Database](https://img.shields.io/badge/Database%3A-121212?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%230066CC.svg?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Database](https://img.shields.io/badge/Database%3A-121212?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%230066CC.svg?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00.svg?style=flat-square&logo=firebase&logoColor=white)
 
 ![Utility](https://img.shields.io/badge/Utility%3A-121212?style=flat-square) ![MapLibre](https://img.shields.io/badge/MapLibre-%2300A1DE.svg?style=flat-square&logo=maplibre&logoColor=white) ![i18next](https://img.shields.io/badge/i18next-%2326A69A.svg?style=flat-square&logo=i18next&logoColor=white) ![PixiJS](https://img.shields.io/badge/PixiJS-%23E72264.svg?style=flat-square&logo=piapro&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 
