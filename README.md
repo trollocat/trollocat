@@ -1,6 +1,6 @@
 ## 🐱 Hi there! I’m a graphic designer at 25/7 Media Inc. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joan-gonzalez-9320b31a2) 
-### 📚 I've been learning web development over the years and built some cool stuff! [![Portfolio](https://img.shields.io/badge/Portfolio-%23323232.svg?style=flat-square)](https://joangonzalez.vercel.app/)
-### 📣 I'm currently looking for job opportunities as a frontend developer or UI designer [![Contact](https://img.shields.io/badge/Contact-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:joanignaciogonzalez@example.com)
+### 📚 Web development is my main focus in life, I've built some cool stuff! [![Portfolio](https://img.shields.io/badge/Portfolio-%23323232.svg?style=flat-square)](https://joangonzalez.vercel.app/)
+### 📣 I'm currently looking for job opportunities as a frontend developer and UI designer [![Contact](https://img.shields.io/badge/Contact-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:joanignaciogonzalez@example.com)
 
 🖥 This is my tech stack:
 
