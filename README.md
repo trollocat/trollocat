@@ -1,8 +1,8 @@
-## 🐱 Hi there! I’m a graphic designer at 25/7 Media Inc. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joan-gonzalez-9320b31a2) 
-### 📚 Web development is my main focus in life, I've built some cool stuff! [![Portfolio](https://img.shields.io/badge/Portfolio-%23323232.svg?style=flat-square)](https://joangonzalez.vercel.app/)
-### 📣 I'm currently looking for job opportunities as a frontend developer and UI designer [![Contact](https://img.shields.io/badge/Contact-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:joanignaciogonzalez@example.com)
+## hi there! 🐱 I’m a graphic designer at 25/7 Media Inc. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joan-gonzalez-9320b31a2) 
+### I have a web development portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-%23323232.svg?style=flat-square)](https://joangonzalez.vercel.app/)
+### [![Contact](https://img.shields.io/badge/Contact-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:joanignaciogonzalez@gmail.com)
 
-🖥 This is my tech stack:
+🖥 this is my tech stack:
 
 ![Frontend](https://img.shields.io/badge/Frontend%3A-121212?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-%23181717.svg?style=flat-square&logo=react&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled%20Components-%23DB7093.svg?style=flat-square&logo=styled-components&logoColor=white)
 
@@ -16,4 +16,4 @@
 
 ![Testing](https://img.shields.io/badge/Testing%3A-121212?style=flat-square) ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=flat-square&logo=jest&logoColor=white)
 
-🐈 I love my cats 🤍Benito🤍 🖤Zafira🖤 💜Olivia💜 💚Cooper💚 🧡Canela🧡
+🐈 🤍Benito🤍 🖤Zafira🖤 💜Olivia💜 💚Cooper💚 🧡Canela🧡 🐈
